@@ -1,0 +1,4 @@
+
+`
+java:S2095	"DUse try-with-resources or close this "Stream" in a "finally" clause.(µ›§!8Η¦εβό1
+L	java:S106"+Replace this use of System.out by a logger.(Ή¦…‡ϊÿÿÿÿ8Κ¦εβό1
